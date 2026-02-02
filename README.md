@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Akryum710">
+  <a href="https://github.com/anice-pony-horse">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20%2B%20Mobile%20App%20Developer;AI%20,%20Machine%20Learning%20(ML)%20Engineer;6%2B%20Years%20of%20IT%20Experience;Portfolio%20Friendly%20and%20Tech-Focused;&font=Shantell+Sans&size=34&center=true&vCenter=true&width=700&height=60&color=f75c7e&pause=1000" />
   </a>
 </p>
@@ -155,6 +155,52 @@ Hello! I’m Anice Pony Horse, a full-stack developer who enjoys building practi
     <br><br><br><br><br><br><br><br><br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
+
+###
+
+# <i>My Previous AI & Full-Stack projects</i>
+
+I have developed multiple AI and full-stack projects, delivering end-to-end solutions that combine intelligent systems with scalable web applications, APIs, databases, and cloud-based architectures. All related repositories are maintained as private.
+
+<h3><u><strong><i>Iwuvium</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="./img/iwuvium.png">
+I developed a 3D interactive game website (iwuvium) that delivers an immersive, real-time user experience through modern full-stack web technologies.
+Leveraging advanced frontend frameworks, 3D rendering libraries, and a scalable backend architecture, I implemented smooth animations, responsive interactions, and efficient asset loading to ensure high performance across devices.
+The platform is designed for future expansion, with the potential to integrate AI-driven gameplay logic, user behavior analytics, multiplayer features, and personalized experiences powered by intelligent systems.
+
+<h3><u><strong><i>Awwward</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="./img/redefault-gaming.png">
+I developed an award-style showcase website that emphasizes high-end UI/UX, smooth animations, and visually engaging interactions using modern full-stack web technologies.
+By combining responsive design, optimized performance, and dynamic frontend effects, the platform delivers a polished, professional browsing experience across devices.
+The architecture supports future enhancements such as AI-driven personalization, adaptive layouts based on user behavior, and intelligent content presentation to elevate user engagement.
+
+<h3><u><strong><i>Web3-Casino</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="./img/casino.png">
+I developed a Web3 casino game demo platform that combines full-stack web development with blockchain integration to deliver interactive, real-time gaming experiences.
+Using modern frontend frameworks, smart contract connectivity, and secure backend services, I implemented features such as on-chain game logic, wallet integration, and dynamic gameplay flows.
+The platform is built for scalability, with the potential to incorporate AI-driven game balancing, fraud detection, player behavior analytics, and personalized gaming experiences.
+
+<h3><u><strong><i>Movie-Search-App</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="./img/movie-app.png">
+I developed a modern movie discovery and browsing web application that combines full-stack functionality with intuitive UX design.
+Using current frontend frameworks, APIs for film data, and a scalable backend structure, I implemented features such as dynamic search, responsive browsing, and interactive content presentation.
+The platform is built to expand with AI-driven recommendations, personalized user profiles, and intelligent content curation to elevate the movie-exploration experience.
+
+<h3><u><strong><i>Game-search-App</i></strong></u></h3>
+<hr />
+
+<img align="right" width="300px" height="200px" src="./img/game-app.png">
+I developed a dynamic game apps listing web platform that combines full-stack web development with responsive design to showcase interactive game experiences.
+Using modern frontend technologies, efficient backend services, and seamless routing, I implemented features such as categorized browsing, search and filter functionality, and smooth user interactions.
+The platform is structured for future expansion with AI-powered recommendations, personalized user experiences, and intelligent game discovery features.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xcho7i&icon=2&color=1)](https://visitcount.itsvg.in)
