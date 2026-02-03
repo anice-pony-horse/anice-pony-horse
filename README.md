@@ -180,7 +180,7 @@ I developed a Web3 casino game demo platform that combines full-stack web develo
 Using modern frontend frameworks, smart contract connectivity, and secure backend services, I implemented features such as on-chain game logic, wallet integration, and dynamic gameplay flows.
 The platform is built for scalability, with the potential to incorporate AI-driven game balancing, fraud detection, player behavior analytics, and personalized gaming experiences.
 
-<h3><u><strong><i>Magnum AI Integration</i></strong></u></h3>
+<h3><u><strong><i>Magnum AI Clone</i></strong></u></h3>
 <hr />
 
 <img align="right" width="300px" height="200px" src="./img/13.png">
